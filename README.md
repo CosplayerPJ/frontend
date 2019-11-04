@@ -1,8 +1,11 @@
 # frontend
 
 > cosplay pj frontend
+## 解説
+このソフトは[nuxt.js](https://ja.nuxtjs.org/)を使って作っています。
+nuxt.jsはウェブアプリに必要なコードを沢山自動生成してくれるソフトです。
 
-## Build Setup
+## セットアップ方法
 
 ``` bash
 # install dependencies
