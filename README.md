@@ -2,6 +2,7 @@
 > cosplay pj frontend
 
 # デプロイ先
+herokuの松田アカウントで動かすようにしました。
 https://cosplay-pj.herokuapp.com/
 
 ## 解説
