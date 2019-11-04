@@ -1,5 +1,8 @@
 # frontend
+
+[![CircleCI](https://circleci.com/gh/CosplayerPJ/frontend.svg?style=svg)](https://circleci.com/gh/CosplayerPJ/frontend)
 > cosplay pj frontend
+
 
 # デプロイ先
 herokuの松田アカウントで動かすようにしました。
