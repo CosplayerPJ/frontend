@@ -1,6 +1,10 @@
 # frontend
-
 > cosplay pj frontend
+
+# デプロイ先
+herokuの松田アカウントで動かすようにしました。
+https://cosplay-pj.herokuapp.com/
+
 ## 解説
 このソフトは[nuxt.js](https://ja.nuxtjs.org/)を使って作っています。
 nuxt.jsはウェブアプリに必要なコードを沢山自動生成してくれるソフトです。
